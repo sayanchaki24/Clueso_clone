@@ -196,11 +196,6 @@ This checks:
 
 ## 🐛 Troubleshooting
 
-**No AI narration?**
-- Check `.\TEST_AUDIO_PIPELINE.ps1` output
-- Verify API keys in `.env` files
-- Check Gemini quota: https://ai.google.dev/gemini-api/docs/rate-limits
-
 **Video not loading?**
 - Check browser console (F12) for 404 errors
 - Verify services running: `Get-Process node,python`
