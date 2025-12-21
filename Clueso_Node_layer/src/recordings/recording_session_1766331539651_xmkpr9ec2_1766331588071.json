@@ -1,0 +1,65 @@
+{
+  "sessionId": "session_1766331539651_xmkpr9ec2",
+  "startTime": 1766331539655,
+  "endTime": 1766331588059,
+  "url": "https://console.deepgram.com/project/7b15669c-d4cb-433c-8e03-3841e280ec6a/keys",
+  "viewport": {
+    "width": 1491,
+    "height": 707
+  },
+  "events": [
+    {
+      "timestamp": 5714,
+      "type": "click",
+      "target": {
+        "tag": "SPAN",
+        "id": null,
+        "classes": [],
+        "text": "Dashboard",
+        "selector": "div#elm-root > div:nth-of-type(1) > div > div > nav > div > div > ul > li:nth-of-type(1) > a > div > span:nth-of-type(2)",
+        "bbox": {
+          "x": 40,
+          "y": 80,
+          "width": 82,
+          "height": 24
+        },
+        "attributes": {}
+      },
+      "metadata": {
+        "url": "https://console.deepgram.com/project/7b15669c-d4cb-433c-8e03-3841e280ec6a/keys",
+        "viewport": {
+          "width": 1491,
+          "height": 707
+        }
+      }
+    },
+    {
+      "timestamp": 36034,
+      "type": "click",
+      "target": {
+        "tag": "SPAN",
+        "id": null,
+        "classes": [],
+        "text": "API Keys",
+        "selector": "div#elm-root > div:nth-of-type(1) > div > div > nav > div > div > ul > li:nth-of-type(2) > a > div > span:nth-of-type(2)",
+        "bbox": {
+          "x": 40,
+          "y": 120,
+          "width": 67,
+          "height": 24
+        },
+        "attributes": {}
+      },
+      "metadata": {
+        "url": "https://console.deepgram.com/project/7b15669c-d4cb-433c-8e03-3841e280ec6a",
+        "viewport": {
+          "width": 1491,
+          "height": 707
+        }
+      }
+    }
+  ],
+  "videoPath": "W:\\GCU\\Project\\Clueso_clone_example\\Clueso_Node_layer\\src\\recordings\\recording_session_1766331539651_xmkpr9ec2_video.webm",
+  "audioPath": "W:\\GCU\\Project\\Clueso_clone_example\\Clueso_Node_layer\\src\\recordings\\recording_session_1766331539651_xmkpr9ec2_audio.webm",
+  "processedAt": "2025-12-21T15:39:48.071Z"
+}
