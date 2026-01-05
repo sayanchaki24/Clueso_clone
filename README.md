@@ -1,4 +1,4 @@
-# Clueso Clone - AI-Powered Screen Recording Platform
+# AI-Powered Screen Recording Platform
 
 A complete full-stack application for recording screen interactions with AI-generated narration. Capture user actions, generate professional product demo scripts, and create polished presentations automatically.
 
